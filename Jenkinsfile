@@ -8,7 +8,7 @@ pipeline {
         REPOS_DIR = "/home/ec2-user/github-repos"
         MULTIJUEGOS_DIR = "/home/ec2-user/github-repos/DevOpsFinalProject"
     }
-    
+    /*
     stages{
         stage('limpieza') {
             steps {
